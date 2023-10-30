@@ -34,7 +34,7 @@ body {
   opacity: 0.95;
   height: 6rem;
   position: fixed;
-  top: 0;
+  top: 1;
   left: 0;
   width: 100%;
   justify-content: space-between;
